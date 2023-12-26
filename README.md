@@ -12,8 +12,13 @@ Create a regression model to predict flight prices based on key criteria such as
 • Ideally we would create a model but all airports globally, but this isn't feasible with currently available sources
 • Instead, as a test, we will design & deploy a model on a subset of total global flight prices: One way flights within the United States to the top 37 most commonly used airports over a 6 month period.
 
+https://ibb.co/vc9N1mt
+https://ibb.co/K5FjPZ5
+https://ibb.co/0mPnyCN
+https://ibb.co/5cH5pXx
+https://ibb.co/r4Q9g8D
 ### **Data**
-<a href="https://ibb.co/yR3WpDz"><img src="https://i.ibb.co/fSc49b3/datasources.png" alt="datasources" border="0" /></a>
+<a href="https://ibb.co/5TDmcGh"><img src="https://i.ibb.co/fSc49b3/datasources.png" alt="datasources" border="0" /></a>
 <a href="https://ibb.co/NtQdHk7"><img src="https://i.ibb.co/WGq4Yds/dataschema.png" alt="dataschema" border="0" /></a>
 
 ### **Machine Learning Models**
